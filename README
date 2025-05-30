@@ -2,8 +2,7 @@
 
 This project explores customer behavior using unsupervised machine learning to uncover actionable segments. Using clustering techniques and PCA, we identify key patterns in income, age, tenure, and spending. The results are presented in an interactive Tableau dashboard.
 
-🔗 **[View the Interactive Dashboard](https://public.tableau.com/app/profile/your-link)**  
-*(Replace with your actual Tableau Public link)*
+🔗 View the Interactive Dashboard](https://public.tableau.com/app/profile/hillkimberlykh/viz/CustomerSegmentationAnalysis_17486173940080/CustomerSegmentation) 
 
 ---
 
