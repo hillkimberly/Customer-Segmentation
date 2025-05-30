@@ -1,0 +1,32 @@
+# 🧠 Customer Segmentation with KMeans & Tableau
+
+This project explores customer behavior using unsupervised machine learning to uncover actionable segments. Using clustering techniques and PCA, we identify key patterns in income, age, tenure, and spending. The results are presented in an interactive Tableau dashboard.
+
+🔗 **[View the Interactive Dashboard](https://public.tableau.com/app/profile/your-link)**  
+*(Replace with your actual Tableau Public link)*
+
+---
+
+## 📊 Project Overview
+
+- **Dataset**: [Marketing Campaign Data (Kaggle)](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
+- **Tools Used**: Python (Pandas, Scikit-learn, Matplotlib), Tableau Public
+- **Techniques**:
+  - Data cleaning & preprocessing
+  - Feature scaling with `StandardScaler`
+  - Dimensionality reduction with `PCA`
+  - Clustering with `KMeans` (Elbow method used to determine optimal `k`)
+  - Cluster interpretation and labeling
+
+---
+
+## 🧠 Key Insights
+
+> “Cluster 1 represents the highest average wine spend and longer tenure, indicating loyal, high-value customers.”
+
+The dashboard reveals differences in age, income, and product preference across clusters — enabling targeted marketing and personalization strategies.
+
+---
+
+## 📁 Project Files
+
